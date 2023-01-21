@@ -10,7 +10,7 @@
 ### What sort of company does soil testing for engineers?
 "Well, y'all, soil testing is typically done by specialized companies that have the equipment and expertise to properly test the soil. These companies are called geotechnical engineering firms or soil testing labs. They employ engineers and technicians who are trained and experienced in soil testing and analysis. They use a variety of methods and equipment to test the soil, such as drilling or excavating to collect samples, and then use laboratory equipment to analyze the samples. These firms also provide recommendations for foundation design and construction based on the results of the soil testing. They work closely with civil engineers to ensure the stability and safety of the building and other construction projects."
 
-###What type of soil tests would be good to have done when building a new home?
+### What type of soil tests would be good to have done when building a new home?
 "When building a new home, y'all, it's a good idea to have a variety of soil tests done to ensure the stability and safety of the structure. Some of the most important tests to consider include:
 
 Soil Classification Test: This test determines the type of soil at the construction site and its characteristics, such as grain size, plasticity, and compressibility.
@@ -55,7 +55,7 @@ Retaining wall analysis may be required when:
 
 Retaining wall analysis can also be required by local building codes or regulations in certain areas, it's best to check with the local authority before starting any construction project that includes a retaining wall. This analysis will help to determine the design and construction of the wall, including the materials, footing, and drainage that would be suitable for the specific site conditions and the load that will be applied to the wall."
 
-#Thank you, Zippy. Before I go, is there anything else regarding geotechnical engineering I should consider when building a new home?
+### Thank you, Zippy. Before I go, is there anything else regarding geotechnical engineering I should consider when building a new home?
 "I'm glad I could help, y'all. Building a new home is a big investment, and it's important to make sure that the foundation and the surrounding area are safe and stable. Here are a few other things to consider when working with geotechnical engineering firms when building a new home:
 
 Site Investigation: Make sure to have a thorough site investigation done before starting construction. This will ensure that any potential hazards or problems are identified and addressed early on.
